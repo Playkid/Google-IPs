@@ -3,11 +3,7 @@
 =====>> [宽屏查看](./README.md) <<=====
 
 微博: [@justjavac](http://weibo.com/justjavac)
-<style>
-.markdown-body table th, .markdown-body table td {
-    padding: 6px 5px;
-}
-</style>
+
 <table>
  <tbody>
   <tr>
