@@ -1,8 +1,8 @@
-## Google 全球 IP 地址库
+## Google全球IP地址库
 
 =====>> [宽屏查看](./README.md) <<=====
 
-微博: [@justjavac](http://weibo.com/justjavac)
+短地址: (http://tinyurl.com/Google-IPs)
 
 <table>
  <tbody>
@@ -10,7 +10,7 @@
    <th colspan="6">Bulgaria</th>
   </tr>
   <tr>
-   <td style="padding: 6px 5px;"><a href="http://93.123.23.1" target="_blank">93.123.23.1</a></td>
+   <td><a href="http://93.123.23.1" target="_blank">93.123.23.1</a></td>
    <td><a href="http://93.123.23.2" target="_blank">93.123.23.2</a></td>
    <td><a href="http://93.123.23.3" target="_blank">93.123.23.3</a></td>
    <td><a href="http://93.123.23.4" target="_blank">93.123.23.4</a></td>
