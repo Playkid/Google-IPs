@@ -2,7 +2,8 @@
 
 =====>> [宽屏查看](./README.md) <<=====
 
-短地址：<http://tinyurl.com/Google-IPs>
+ +短地址①：<http://tinyurl.com/Google-IPs>  
+ +短地址②：<http://dwz.cn/Google-IPs>
 
 <table>
  <tbody>
@@ -5989,9 +5990,7 @@
    <td><a href="http://118.174.25.250" target="_blank">118.174.25.250</a></td>
    <td><a href="http://118.174.25.251" target="_blank">118.174.25.251</a></td>
   </tr>
-  <tr>
-   <td colspan="6"><a href="#google-%E5%85%A8%E7%90%83-ip-%E5%9C%B0%E5%9D%80%E5%BA%93">Top</a></td>
-  </tr>
+
  </tbody>
 </table>
 
