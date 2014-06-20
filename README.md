@@ -2,7 +2,7 @@
 
 =====>> [宽屏查看](./README.md) <<=====
 
-短地址: (http://tinyurl.com/Google-IPs)
+短地址：<http://tinyurl.com/Google-IPs>
 
 <table>
  <tbody>
